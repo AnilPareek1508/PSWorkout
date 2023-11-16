@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PSWorkout</string>
+    <string name="workout_type">Choose Workout Type</string>
+    <string name="enter_duration">Enter Duration in Minutes</string>
+    <string name="add_workout">Add Workout Session</string>
+    <string name="error_msg_empty">Enter duration of workout</string>
+    <string name="error_msg_number">Enter value in minutes(0-59)</string>
+    <string name="error_msg_selectType">Select Workout Type</string>
+</resources>
